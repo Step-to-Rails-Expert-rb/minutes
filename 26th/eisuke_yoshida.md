@@ -1,4 +1,4 @@
-# [@ekusie](https://github.com/eksuie)
+# [@ekusie](https://github.com/ekusie)
 
 18年4月から株式会社Ruby開発で働いています。
 現在は某商社のグループ会社のIT企業に常駐してシステム監視ソフトの開発に携わっています。
