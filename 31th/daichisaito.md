@@ -10,4 +10,4 @@
 RailsよりもVueやってます。
 
 ## 今日やること
-未定
+fast_jsonapi
